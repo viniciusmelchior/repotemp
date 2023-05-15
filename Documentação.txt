@@ -1,0 +1,4 @@
+1. instalar o laravel + laravel ui com bootstrap. 
+2. criar usuário comum só para o sistema ficar navegável
+
+https://bootstrap-menu.com/detail-multilevel.html
